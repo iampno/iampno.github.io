@@ -11,4 +11,4 @@ I am a developer that works for Nationwide in Columbus, Ohio. Originally from Gh
 
 ## Contact
 
-Email and Twitter is the best way to contact me: mailto:hello@princeotchere.com and http://twitter.com/iampno respectively.
+Email and Twitter are the best way to contact me: mailto:hello@princeotchere.com and http://twitter.com/iampno respectively.
