@@ -8,7 +8,7 @@ subtitle: Alchemical Software Developer
 
 I am currently a developer for Nationwide in Columbus, Ohio. Originally from Ghana. I mostly program in JavaScript but I can play around with most languages.
 
-If I'm not learning a new language or technology, then I may be working on projects that either relates to my interests or evokes a sense of nostalgia. My interests fall within the areas of science, philosophy and comparative religion.
+If I'm not learning a new language or technology, then I may be working on projects that either relate to my interests or evoke a sense of nostalgia. My interests fall within the areas of science, philosophy and comparative religion.
 
 
 ## Contact
