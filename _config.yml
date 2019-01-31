@@ -25,7 +25,9 @@ description: Personal Blog
 navbar-links:
   About Me: "aboutme"
   Resources:
+#     - Anansi Web: ""
     - Brief Resume: "https://docs.google.com/document/d/1GQIkG43CoWRUTFpumy3fVlWmNlK7wg3hXY9xH71qZRU/edit?usp=sharing"
+    - Datassette Playlist: "https://musicforprogramming.net/"
     - Frank Ocean Playlist: "https://www.youtube.com/playlist?list=PLcqmJaC1QHk9ff79Nxk966-UeJo6SOs8R"
     - GitHub Pages: "https://pages.github.com/"
     - Namecheap: "https://www.namecheap.com/"
