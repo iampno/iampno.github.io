@@ -1,16 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Alchemical Software Developer
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+## Prince N. Otchere
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I am a developer that works for Nationwide in Columbus, Ohio. Originally from Ghana. I mostly program in JavaScript but I can play around with most languages.
 
-What else do you need?
 
-### my history
+## Contact
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Email and Twitter is the best way to contact me: mailto:hello@princeotchere.com and http://twitter.com/iampno respectively.
