@@ -24,10 +24,10 @@ description: Prince Otchere, a web developer and science afficionado in Columbus
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-#   Resources: "resources"
-    # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    # - Learn markdown: "http://www.markdowntutorial.com/"
-    # - GitHub Pages: "https://pages.github.com/"
+  Resources: 
+    - GitHub Pages: "https://pages.github.com/"
+    - Namecheap: "https://www.namecheap.com/"
+    - Netlify: "https://www.netlify.com/"
   # Contact: "contact"
 
 # Image to show in the navigation bar - image must be a square (width = height)
