@@ -78,12 +78,12 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
-  github: iampno
+#   rss: true
+  email: "hello@princeotchere.com"
   twitter: iampno
+  github: iampno
 #   linkedin: iampno
 #   instagram: iampno
-  email: "hello@princeotchere.com"
 #   facebook: daattali
 #  reddit: yourname
 #  google-plus: +DeanAttali
