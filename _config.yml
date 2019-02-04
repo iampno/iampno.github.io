@@ -80,6 +80,7 @@ author:
 social-network-links:
 #   rss: true
   email: "hello@princeotchere.com"
+  calendly: prince-otchere
   twitter: iampno
   github: iampno
 #   linkedin: iampno
@@ -103,7 +104,7 @@ share-links-active:
 #   facebook: false
 #   google: false
   linkedin: true
-  reddit: true
+#   reddit: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
