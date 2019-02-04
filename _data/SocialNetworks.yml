@@ -95,3 +95,8 @@ yelp:
   name: "Yelp"
   baseURL: "https://{{ site.author.yelp }}.yelp.com"
   icon: "fa-yelp"
+  
+calendly:
+  name: "Calendly"
+  baseURL: "https://calendly.com/prince-otchere"
+  icon: "fa-calendar-day"
