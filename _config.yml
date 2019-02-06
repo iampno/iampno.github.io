@@ -28,7 +28,7 @@ navbar-links:
 #     - Anansi Web: ""
     - Brief Resume: "https://docs.google.com/document/d/1GQIkG43CoWRUTFpumy3fVlWmNlK7wg3hXY9xH71qZRU/edit?usp=sharing"
     - Codewars: "https://www.codewars.com/"
-#     - Datassette Playlist: "https://musicforprogramming.net/"
+    - Datassette Playlist: "https://musicforprogramming.net/"
 #     - Frank Ocean Playlist: "https://www.youtube.com/playlist?list=PLcqmJaC1QHk9ff79Nxk966-UeJo6SOs8R"
 #     - GitHub Pages: "https://pages.github.com/"
     - Hacker News: "https://news.ycombinator.com/active"
