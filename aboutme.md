@@ -13,4 +13,4 @@ If I'm not learning a new language or technology, then I may be working on proje
 
 ## Contact
 
-[Email]("mailto:hello@princeotchere.com") and [Twitter]("https://twitter.com/iampno") are the best ways to contact me.
+[Email](mailto:hello@princeotchere.com) and [Twitter](https://twitter.com/iampno) are the best ways to contact me.
