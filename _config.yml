@@ -28,12 +28,15 @@ navbar-links:
 #     - Anansi Web: ""
     - Brief Resume: "https://docs.google.com/document/d/1GQIkG43CoWRUTFpumy3fVlWmNlK7wg3hXY9xH71qZRU/edit?usp=sharing"
     - Codewars: "https://www.codewars.com/"
-    - Datassette Playlist: "https://musicforprogramming.net/"
-    - Frank Ocean Playlist: "https://www.youtube.com/playlist?list=PLcqmJaC1QHk9ff79Nxk966-UeJo6SOs8R"
+#     - Datassette Playlist: "https://musicforprogramming.net/"
+#     - Frank Ocean Playlist: "https://www.youtube.com/playlist?list=PLcqmJaC1QHk9ff79Nxk966-UeJo6SOs8R"
 #     - GitHub Pages: "https://pages.github.com/"
     - Hacker News: "https://news.ycombinator.com/active"
 #     - Namecheap: "https://www.namecheap.com/"
 #     - Netlify: "https://www.netlify.com/"
+    - Techmeme: "https://www.techmeme.com/"
+    - WestCo: "https://www.westcowork.com/"
+#     - Westerville Web: "https://www.meetup.com/westervilleweb/"
   # Contact: "contact"
 
 # Image to show in the navigation bar - image must be a square (width = height)
