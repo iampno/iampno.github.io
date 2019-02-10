@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 title: Letter of Intent
 image: /img/fountain_pen.jpg
+date: '2019-02-10'
 ---
 ## Hello World! 
 
