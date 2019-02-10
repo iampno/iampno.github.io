@@ -19,7 +19,7 @@ The bulk of posts will explore concepts in web development as I understand it.
 ### Philosophy
 
 There will be some posts on philosophy from time to time. Not too rigorous necessarily. 
-- This is in deferrence to the fact that I read tons of philosophy before working as a web developer. It seems to me an ephemeral branch of study or even the only one in principle.
+- This is in deference to the fact that I read tons of philosophy before working as a web developer. It seems to me an ephemeral branch of study or even the only one in principle.
 
 - I find that the systematization of one's thoughts - as is done in philosophy - is conducive to software development roles. So I won't be quitting it anytime soon.
 
