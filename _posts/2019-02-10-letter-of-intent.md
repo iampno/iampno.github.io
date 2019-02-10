@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: Letter of Intent
 image: /img/fountain_pen.jpg
 ---
