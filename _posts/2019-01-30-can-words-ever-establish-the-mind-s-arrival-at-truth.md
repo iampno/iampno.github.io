@@ -1,8 +1,37 @@
 ---
 layout: post
 published: false
-title: 'Can Words Ever Establish the Mind''s Arrival at Truth? '
+title: 'Words, Mind and Truth'
 ---
-## Ancient Questions Revisited
+---
+layout: post
+title: Can Words Ever Establish the Mind's Arrival at Truth? 
+subtitle: An Ancient Question Revisited
+image: /img/anastasia-azure.jpg
+tags: [philosophy]
+comments: true
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+---
+
+## Introduction
+
+
+## Define How One is to establish something
+
+## And why have I defined it this way?
+
+## Also how am I using the word truth?
+
+## On what fundamental grounds or reasons do I have to use truth that way?
+
+## Only after these are answered, can one begin to respond to the question.
+
+// Thorough and nuanced
+
+// Original words and examples
+
+// Signifance of ideas are explored
+
+// Foundational ideas are laid out
+
+// Problems and objections are adressed as they arise
