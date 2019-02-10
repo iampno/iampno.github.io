@@ -33,6 +33,6 @@ Although a branch of philosophy, politics is not an area that I will venture to 
 - The political climate seems more polarizing than anytime that I can recall. More importantly, I do not find it nearly as interesting as history or comparative religion - all of which can be easily evaluated by the public given the breadth of source material available.
 - Dignified columnists and writers that make the work of figuring out the facts an easier and richer experience have my thanks. 
 
-The aforemetioned points accurately describes my intent. Following the next post, expect to see more substantial content.
+The aforemetioned points accurately describe my intent. Following the next post, expect to see more substantial content.
 
 X&R
