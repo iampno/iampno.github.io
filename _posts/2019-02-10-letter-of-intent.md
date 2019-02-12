@@ -33,7 +33,7 @@ As with philosophy, so it is with science but with one caveat:
 ### No Politics
 
 Although a branch of philosophy, politics is not an area that I will venture to post. 
-- The political climate seems more polarizing than anytime that I can recall. More importantly, I do not find it nearly as interesting as history or comparative religion - all of which can be better evaluated by the public given the breadth of source material available.
+- The political climate seems more polarizing than anytime that I can recall. More importantly, I do not find it nearly as interesting as history or comparative religion - both of which can be better evaluated by the public given the breadth of source material available.
 
 - Dignified columnists and writers that make the work of figuring out the facts an easier and richer experience have my thanks. 
 
