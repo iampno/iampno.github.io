@@ -1,2 +1,0 @@
-# Redirect default Netlify subdomain to primary domain
-http://angry-spence-e7d2f1.netlify.com/* http://www.princeotchere.com/:splat 301!
